@@ -1,0 +1,57 @@
+[
+  {
+    "id": 11,
+    "titulo": "Contrato de Acuerdo Prenupcial",
+    "nombres": ["acuerdo prenupcial", "contrato de acuerdo prenupcial"],
+    "precio": "7,500 MX",
+    "descripcion_corta": "Contrato de Acuerdo Prenupcial en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de Acuerdo Prenupcial que establece la división de bienes y obligaciones financieras en caso de divorcio",
+    "plazo": "2 semanas",
+    "datos_necesarios": "Nombres, detalles del patrimonio de los contrayentes, términos del acuerdo",
+    "categoria": "Familiar"
+  },
+  {
+    "id": 12,
+    "titulo": "Proceso de Divorcio Contencioso",
+    "nombres": ["divorcio contencioso", "proceso de divorcio contencioso"],
+    "precio": "10,000 MX",
+    "descripcion_corta": "Proceso de Divorcio Contencioso en la Ciudad de Mexico",
+    "descripcion_larga": "Proceso de Divorcio Contencioso cuando las partes no están de acuerdo en los términos del divorcio",
+    "plazo": "6 meses",
+    "datos_necesarios": "Nombres, detalles de la situación matrimonial, términos del divorcio",
+    "categoria": "Familiar"
+  },
+  {
+    "id": 13,
+    "titulo": "Proceso de Adopción",
+    "nombres": ["adopción", "proceso de adopción"],
+    "precio": "9,500 MX",
+    "descripcion_corta": "Proceso de Adopción en la Ciudad de Mexico",
+    "descripcion_larga": "Proceso de Adopción para legalizar la adopción de un menor de edad",
+    "plazo": "1 año",
+    "datos_necesarios": "Nombres, detalles del menor, términos de la adopción",
+    "categoria": "Familiar"
+  },
+  {
+    "id": 14,
+    "titulo": "Demanda de Alimentos",
+    "nombres": ["demanda de alimentos", "proceso de demanda de alimentos"],
+    "precio": "7,000 MX",
+    "descripcion_corta": "Demanda de Alimentos en la Ciudad de Mexico",
+    "descripcion_larga": "Demanda de Alimentos para establecer una obligación alimentaria",
+    "plazo": "3 meses",
+    "datos_necesarios": "Nombres, detalles de la situación familiar, términos de la demanda",
+    "categoria": "Familiar"
+  },
+  {
+    "id": 15,
+    "titulo": "Proceso de Reconocimiento de Paternidad",
+    "nombres": ["reconocimiento de paternidad", "proceso de reconocimiento de paternidad"],
+    "precio": "8,000 MX",
+    "descripcion_corta": "Proceso de Reconocimiento de Paternidad en la Ciudad de Mexico",
+    "descripcion_larga": "Proceso de Reconocimiento de Paternidad para establecer legalmente la paternidad de un niño",
+    "plazo": "3 meses",
+    "datos_necesarios": "Nombres, detalles del menor, términos del reconocimiento",
+    "categoria": "Familiar"
+  }
+]

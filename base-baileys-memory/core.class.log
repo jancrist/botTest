@@ -1,0 +1,260 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491151797471@s.whatsapp.net',
+    fromMe: false,
+    id: '300CFA660B8342A3119D6A4F06F82A17',
+    participant: undefined
+  },
+  messageTimestamp: 1697677598,
+  pushName: 'Jan Crist',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491151797471'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491151797471@s.whatsapp.net',
+    fromMe: false,
+    id: '55CA444D17129827BA50B37B8A973102',
+    participant: undefined
+  },
+  messageTimestamp: 1697677611,
+  pushName: 'Jan Crist',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5491151797471'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215591428958@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0EC35790FD89463232B',
+    participant: undefined
+  },
+  messageTimestamp: 1697677612,
+  pushName: 'Manu',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5215591428958'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491151797471@s.whatsapp.net',
+    fromMe: false,
+    id: 'EC87961E37F1EFB8C29F3E10ABB8418B',
+    participant: undefined
+  },
+  messageTimestamp: 1697677641,
+  pushName: 'Jan Crist',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola, quiero divorciarme. Que necesito para hacerlo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola, quiero divorciarme. Que necesito para hacerlo?',
+  from: '5491151797471'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215591428958@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B72B783718572EB236',
+    participant: undefined
+  },
+  messageTimestamp: 1697677652,
+  pushName: 'Manu',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5215591428958'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491151797471@s.whatsapp.net',
+    fromMe: false,
+    id: 'C86175F14E3CB76479AE1765E4361D94',
+    participant: undefined
+  },
+  messageTimestamp: 1697677668,
+  pushName: 'Jan Crist',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si, vivo en Buenos Aires Argentina, hay bienes en común y tenemos 3 hijos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si, vivo en Buenos Aires Argentina, hay bienes en común y tenemos 3 hijos',
+  from: '5491151797471'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491151797471@s.whatsapp.net',
+    fromMe: false,
+    id: 'ED56B5695C767F79B234929464A7FD9B',
+    participant: undefined
+  },
+  messageTimestamp: 1697677697,
+  pushName: 'Jan Crist',
+  broadcast: false,
+  message: Message {
+    conversation: 'CONTACTAR',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'CONTACTAR',
+  from: '5491151797471'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215591428958@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F4800DE93CDF9D60F3',
+    participant: undefined
+  },
+  messageTimestamp: 1697677727,
+  pushName: 'Manu',
+  broadcast: false,
+  message: Message {
+    conversation: 'tengo problemas con mi esposo que me pega',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'tengo problemas con mi esposo que me pega',
+  from: '5215591428958'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215591428958@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0439F92ED5349548665',
+    participant: undefined
+  },
+  messageTimestamp: 1697677752,
+  pushName: 'Manu',
+  broadcast: false,
+  message: Message {
+    conversation: 'necesito demandarlo ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'necesito demandarlo ?',
+  from: '5215591428958'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491151797471@s.whatsapp.net',
+    fromMe: false,
+    id: '0E7A6EF74A9DA7C06B8A8BFC4E20416E',
+    participant: undefined
+  },
+  messageTimestamp: 1697677756,
+  pushName: 'Jan Crist',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491151797471'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491151797471@s.whatsapp.net',
+    fromMe: false,
+    id: '4597FBF4A7689623FF44CCBE19BEFCA0',
+    participant: undefined
+  },
+  messageTimestamp: 1697677774,
+  pushName: 'Jan Crist',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '5491151797471'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491151797471@s.whatsapp.net',
+    fromMe: false,
+    id: '2C1B300E6013750D8B418BCFC93B7C70',
+    participant: undefined
+  },
+  messageTimestamp: 1697677801,
+  pushName: 'Jan Crist',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola cuánto es lo que tienen que pasar de alimentos tengo dos hijos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola cuánto es lo que tienen que pasar de alimentos tengo dos hijos',
+  from: '5491151797471'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491151797471@s.whatsapp.net',
+    fromMe: false,
+    id: '663E3288A7BC6A7B7ABCF891DBBF170E',
+    participant: undefined
+  },
+  messageTimestamp: 1697677872,
+  pushName: 'Jan Crist',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y cuánto es el porcentaje que tiene que pasar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y cuánto es el porcentaje que tiene que pasar',
+  from: '5491151797471'
+}

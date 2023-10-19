@@ -1,0 +1,57 @@
+[
+  {
+    "id": 6,
+    "titulo": "Contrato de Franquicia",
+    "nombres": ["franquicia", "contrato de franquicia"],
+    "precio": "8,000 MX",
+    "descripcion_corta": "Contrato de Franquicia en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de franquicia que permite utilizar una marca o modelo de negocio ya probado a cambio de una comisión o royalties",
+    "plazo": "1 mes",
+    "datos_necesarios": "Nombres, detalles de la franquicia, monto de la operación",
+    "categoria": "Mercantil"
+  },
+  {
+    "id": 7,
+    "titulo": "Contrato de Joint Venture",
+    "nombres": ["joint venture", "contrato de joint venture"],
+    "precio": "9,000 MX",
+    "descripcion_corta": "Contrato de Joint Venture en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de Joint Venture para colaborar en un proyecto o negocio específico",
+    "plazo": "2 meses",
+    "datos_necesarios": "Nombres, detalles del proyecto, términos de la colaboración",
+    "categoria": "Mercantil"
+  },
+  {
+    "id": 8,
+    "titulo": "Contrato de Distribución",
+    "nombres": ["distribución", "contrato de distribución"],
+    "precio": "7,500 MX",
+    "descripcion_corta": "Contrato de Distribución en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de Distribución para establecer las condiciones de distribución de un producto",
+    "plazo": "1 mes",
+    "datos_necesarios": "Nombres, detalles del producto, términos de la distribución",
+    "categoria": "Mercantil"
+  },
+  {
+    "id": 9,
+    "titulo": "Contrato de Licencia de Uso de Marca",
+    "nombres": ["licencia de marca", "contrato de licencia de uso de marca"],
+    "precio": "6,000 MX",
+    "descripcion_corta": "Contrato de Licencia de Uso de Marca en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de Licencia de Uso de Marca para autorizar el uso de una marca registrada",
+    "plazo": "1 mes",
+    "datos_necesarios": "Nombres, detalles de la marca, términos de la licencia",
+    "categoria": "Mercantil"
+  },
+  {
+    "id": 10,
+    "titulo": "Contrato de Confidencialidad",
+    "nombres": ["confidencialidad", "contrato de confidencialidad"],
+    "precio": "5,500 MX",
+    "descripcion_corta": "Contrato de Confidencialidad en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de Confidencialidad para proteger información sensible en el curso de negocios",
+    "plazo": "1 semana",
+    "datos_necesarios": "Nombres, detalles de la información a proteger, términos del contrato",
+    "categoria": "Mercantil"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "titulo": "Contrato compraventa",
+    "nombres": ["compraventa", "contrato de compraventa", "contrato compraventa"],
+    "precio": "5,000 MX",
+    "descripcion_corta": "Contrato de compraventa de bien inmueble ubicado en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato privado de compraventa, cuyo monto del inmueble no exceda los $8,000,000 (OCHO MILLONES 00/100 M.N.), permite que exista certeza jurídica entre los contratantes pues tiene pleno vigor ante la ley aunque se recomienda realizar posteriormente la formalización ante notario, trámite sobre el cual también podemos ayudarle",
+    "plazo": "1 mes",
+    "datos_necesarios": "Nombres, ubicación del inmueble, monto de la operación, hipoteca.",
+    "categoria": "Civil"
+  },
+  {
+    "id": 2,
+    "titulo": "Contrato arrendamiento",
+    "nombres": ["arrendamiento", "contrato de arrendamiento"],
+    "precio": "4,500 MX",
+    "descripcion_corta": "Contrato de arrendamiento de bien inmueble ubicado en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de arrendamiento por plazo definido, permite tener una garantía para ambas partes",
+    "plazo": "1 semana",
+    "datos_necesarios": "Nombres, ubicación del inmueble, monto de la operación",
+    "categoria": "Civil"
+  },
+  {
+    "id": 3,
+    "titulo": "Contrato de hipoteca",
+    "nombres": ["hipoteca", "contrato de hipoteca"],
+    "precio": "7,000 MX",
+    "descripcion_corta": "Contrato de hipoteca de bien inmueble ubicado en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de hipoteca para garantizar el cumplimiento de una obligación principal",
+    "plazo": "1 mes",
+    "datos_necesarios": "Nombres, ubicación del inmueble, monto de la operación, términos de la hipoteca.",
+    "categoria": "Civil"
+  },
+  {
+    "id": 4,
+    "titulo": "Contrato de fideicomiso",
+    "nombres": ["fideicomiso", "contrato de fideicomiso"],
+    "precio": "9,500 MX",
+    "descripcion_corta": "Contrato de fideicomiso de bien inmueble ubicado en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de fideicomiso para la administración o la transferencia de bienes o derechos",
+    "plazo": "1 mes",
+    "datos_necesarios": "Nombres, ubicación del inmueble, monto de la operación, términos del fideicomiso.",
+    "categoria": "Civil"
+  },
+  {
+    "id": 5,
+    "titulo": "Contrato de donación",
+    "nombres": ["donación", "contrato de donación"],
+    "precio": "6,000 MX",
+    "descripcion_corta": "Contrato de donación de bien inmueble ubicado en la Ciudad de Mexico",
+    "descripcion_larga": "Contrato de donación para la transferencia gratuita de bienes del donante al donatario",
+    "plazo": "1 semana",
+    "datos_necesarios": "Nombres, ubicación del inmueble, monto de la operación.",
+    "categoria": "Civil"
+  }
+]
